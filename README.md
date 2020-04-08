@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Complete Ruby on Rails Developer
+* Complete Ruby on Rails Developer Student - Mark Pennyfeather
